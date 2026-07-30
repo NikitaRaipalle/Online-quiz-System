@@ -1,0 +1,10 @@
+target/
+node_modules/
+build/
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.log
+.env
